@@ -5,15 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7a64d26-1973-42ec-95d3-2e4e0837d144" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ManagerApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShapeApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VicePresident.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParentApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolymorphismApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PersonApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PersonApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Manager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/ManagerApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/ManagerApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/VicePresident.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/VicePresident.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ManagerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ManagerApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ShapeApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShapeApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VicePresident.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VicePresident.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +66,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ManagerApp">
+  <component name="RunManager" selected="Application.ParentApp">
     <configuration name="ManagerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ManagerApp" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParentApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ParentApp" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,9 +88,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PolymorphismApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PolymorphismApp" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShapeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShapeApp" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ParentApp" />
+        <item itemvalue="Application.PolymorphismApp" />
         <item itemvalue="Application.ManagerApp" />
+        <item itemvalue="Application.ShapeApp" />
         <item itemvalue="Application.PersonApp" />
       </list>
     </recent_temporary>
